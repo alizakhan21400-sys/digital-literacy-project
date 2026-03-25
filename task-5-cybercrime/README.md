@@ -1,1 +1,5 @@
-# Task 5
+# Task 5: Cybercrime Case Study and Prevention
+
+For this final task, I conducted a case study on Phishing, which is one of the most common types of cybercrime today. I analyzed how attackers use deceptive emails and fake websites to steal sensitive information like login credentials and financial data. To address these risks, I compiled a list of eight essential safety tips, such as enabling two-factor authentication, verifying website URLs, and never sharing OTPs with strangers. I also researched the official channels for reporting such crimes in India, specifically the National Cyber Crime Reporting Portal (cybercrime.gov.in) and the dedicated helpline number 1930.
+
+This task significantly increased my awareness of digital threats and the legal protections available to citizens. One challenge was selecting the most critical safety tips from a vast amount of online information, but focusing on practical, everyday habits helped me narrow it down. Learning about the 1930 helpline gave me confidence that there are immediate resources available if a cybercrime occurs. This knowledge is crucial for maintaining a secure digital life and protecting my personal information online.
