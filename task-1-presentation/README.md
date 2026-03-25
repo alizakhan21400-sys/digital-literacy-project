@@ -1,1 +1,2 @@
-# Task 1
+# Task 1: Digital Literacy Infographic
+I created this digital literacy awareness infographic using Canva. The infographic highlights key aspects such as safe internet practices, useful digital tools, and email etiquette. I chose a clean layout to make the information easy to read. One challenge was fitting all the important tips into one page, but using icons helped save space. This task helped me understand how to present technical information visually.
