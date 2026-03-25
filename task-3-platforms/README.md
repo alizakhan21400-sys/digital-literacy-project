@@ -1,1 +1,5 @@
-# Task 3 
+# Task 3: Coding and Collaboration Platforms
+
+For this task, I explored two essential digital platforms: a competitive coding site and a data collection tool. First, I used a coding platform (like HackerRank or CodeChef) to solve a programming logic problem. This helped me practice my problem-solving skills and understand how to write efficient code under specific constraints. Second, I used Google Forms to create a structured survey with five different types of questions. This taught me how to collect, organize, and analyze data digitally, which is a vital skill for research and project management.
+
+Through this task, I learned how to navigate technical platforms and use them for collaboration and data gathering. One challenge was designing the Google Form questions to be clear and concise for the respondents, but the platform's user-friendly interface made the process smooth. These tools are highly beneficial for my academic journey as they provide a foundation for both technical development and organized communication.
